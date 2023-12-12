@@ -1,5 +1,5 @@
 # ProgrammingOne
-Final project of my Programming I Course
+Final project of my Programming I Course. It was developed in Java.
 
 This is a movie theater/cinema program. It was designed to be used for 1 user with no authentication. The user can purchase tickets and select their seats, they can also see the available seats before purchase. 
 If the person whose trying to purchase the ticket is over 65 years old, they get a discount.
